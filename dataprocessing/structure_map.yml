@@ -1,0 +1,193 @@
+# 0 will be kept as background
+# The number represents the class
+# when it comes to argmax, the class comes first will be used, i.e. the overlapping classes with larger
+# number will be overwritten
+1: 
+    - brain stem
+    - BS lesion
+    - cerebellar
+    - cerebelum
+    - ct
+    - IV
+    - L ant t
+    - l cerebell
+    - L cerebelu
+    - L cso
+    - l gyrectus
+    - L inf fl
+    - L mid cere
+    - L Oc.
+    - L occ
+    - L par
+    - l parietal
+    - l post fro
+    - L post t
+    - L Temp
+    - l vermis
+    - l_atrial
+    - l_cerebel
+    - l_cerebell
+    - l_frontal
+    - l_parafalc
+    - l_pariet
+    - l_temp_MR
+    - LA Cereb
+    - lantfronta
+    - Lat R Cere
+    - Lcer
+    - lcerebellu
+    - lcrblm
+    - LefOcc
+    - LF
+    - lf front
+    - lf pariet
+    - lfCerebell
+    - LfCerPedun
+    - LfFront
+    - LfInfeFron
+    - LfParCalv
+    - LfPariet
+    - LfPostPari
+    - l-front
+    - Lfrontal
+    - lft fronta
+    - linfantfro
+    - linffronta
+    - linfpariet
+    - llatcrblm
+    - LM Cereb
+    - lmedcrblm
+    - lmedfrant
+    - lmesfrpost
+    - lmesinffro
+    - locc
+    - loccipital
+    - LP cereb
+    - lpar
+    - lparietal
+    - lperiatria
+    - lpostfront
+    - lposttemp
+    - lpv_cerebe
+    - lsupcrblm
+    - lsupfronta
+    - Lsuppariet
+    - LSylvian
+    - lt crblm
+    - LtCebl
+    - LtCerebell
+    - ltemp
+    - ltemp/par
+    - LtFront
+    - LtOcci
+    - LtPar
+    - LtPariet
+    - LtPosFront
+    - LtTemp
+    - Med R Cere
+    - mesen
+    - midbrain
+    - Missed tumor
+    - Missed tumor2
+    - Missed tumor3
+    - Missing
+    - Missing_tumor
+    - Missing1
+    - Missing10
+    - Missing2
+    - Missing3
+    - Missing4
+    - Missing5
+    - Missing6
+    - Missing7
+    - Missing8
+    - Missing9
+    - occ
+    - Pons
+    - pontine
+    - R ant fl
+    - R Cereb
+    - R cerebel
+    - r cerebell
+    - R Ch
+    - R fal
+    - R fr
+    - R fr T1
+    - R Frontal
+    - R Mes Pari
+    - R p at
+    - R parietal
+    - R pfl
+    - R pm fl
+    - R temp
+    - r temp par vol
+    - R_ant_temp
+    - r_BG
+    - r_cerebel
+    - r_cerebell
+    - r_front
+    - r_frontal
+    - r_mes_par
+    - r_occip
+    - r_occipita
+    - r_parietal
+    - r_pos_frt
+    - r_pos-frt
+    - r_precent
+    - RCcc
+    - Rcer
+    - rcerbellum
+    - Rcerebinf
+    - Rcereblat
+    - RCortCrblm
+    - rcrblm
+    - Rf
+    - RF mets
+    - rfrintal
+    - RFront
+    - Rfrontal
+    - r-frontal
+    - right fron
+    - right t
+    - rinftemp
+    - RLatTemp
+    - rmedcrblm
+    - rmesoccip
+    - roccipital
+    - rocciptal
+    - rperiventr
+    - RpostParie
+    - rsupcrbllm
+    - rsupcrblm
+    - rsupfronta
+    - rt cerebel
+    - rt front
+    - RtAntCbl
+    - RtCeBL
+    - RtCerebell
+    - RtCrbell
+    - rtemp
+    - rtempsupfi
+    - RtFront
+    - RtInfOcc
+    - RtLatCbl
+    - RtMesFront
+    - RtOcci
+    - RtParaVerm
+    - RtParietal
+    - RtPons
+    - RtPrecent
+    - RtSupOcc
+    - RtSupParie
+    - RtTemp
+    - RtTempOcci
+    - RtThala
+    - t
+    - t2
+    - t3
+    - temp
+    - Vermis
+
+2: 
+    - External
+    - "*Skull"

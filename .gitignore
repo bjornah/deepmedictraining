@@ -1,0 +1,9 @@
+deepmedic
+logfiles
+output
+Data/*
+config-files-archive
+DeeeMedicDockerImage.tar
+*ipynb
+*log
+*__pycache__*

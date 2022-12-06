@@ -3,7 +3,9 @@ logfiles
 output
 Data/*
 config-files-archive
+config-docker/*brats*
 DeeeMedicDockerImage.tar
 *ipynb
 *log
 *__pycache__*
+config-generated*
